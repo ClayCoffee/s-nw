@@ -1,20 +1,14 @@
 [
         {
-        "version": "Release 1.1",
-        "downloadlink": "kosser",
-        "work": "y",
-	"updateTime": "2018-9-9"
+        "version": "18.6.1.2",
+        "downloadlink": "Close",
+        "work": "latest",
+	"updateTime": "2018-6-1"
         },
 		{
-        "version": "Release 1.0",
-        "downloadlink": "mid",
-        "work": "y",
-	"updateTime": "2018-5-18"
-        },
-		{
-        "version": "Fuck 0.00",
-        "downloadlink": "testing.",
-        "work": "y",
-	"updateTime": "2018-5-15"
+        "version": "18.6.1.1",
+        "downloadlink": "Close",
+        "work": "n",
+	"updateTime": "2018-6-1"
         }
 ]
